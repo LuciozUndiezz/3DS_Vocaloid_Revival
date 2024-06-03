@@ -1,4 +1,4 @@
-# 3DS_Vocaloid_Revival
+# 3DS Vocaloid Revival!!
 Ports of [Daigasso Band Brothers P](https://nintendo.fandom.com/wiki/Daigasso!_Band_Brothers_P) Vocaloids (mostly base vocals) to UTAU and Vocaloid!
 
 ## Where are these voices from?
