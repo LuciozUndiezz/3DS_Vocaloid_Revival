@@ -1,6 +1,8 @@
 # Base files!
 
-## THE AUDIO IS AT IT'S ORIGINAL SAMPLING RATE! THIS WAS NOT RESAMPLED. You will have to do that yourself
+## THE AUDIO IS AT IT'S ORIGINAL SAMPLING RATE! THIS WAS NOT RESAMPLED. You will have to do that yourself. 
+
+I reccomend using [LameXP](https://sourceforge.net/projects/lamexp/)
 
 Reminder: DB00 and DB01 are at 11025 Hz, and DB03 and DB04 are 22050 Hz.
 
