@@ -1,6 +1,6 @@
 # UTAU Ports!
 
-The only one thats available is DB04
+The only one(s) thats available is DB04 and DB03
 
 ## It's a WIP still. All UTAU ports are/ will be CVVC
 
