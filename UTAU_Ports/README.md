@@ -1,6 +1,10 @@
 # UTAU Ports!
 
-The only one(s) thats available is DB04 and DB03
+Ports that exist (for now):
+
+Male: DB04
+
+Female: DB00 and DB03 (don't recommend using DB00 tho. Doesn't sound too good) 
 
 ## It's a WIP still. All UTAU ports are/ will be CVVC
 
